@@ -1,0 +1,55 @@
+{"name":"Alabama","postal_code":"AL","STATEFP":"01"}
+{"name":"Alaska","postal_code":"AK","STATEFP":"02"}
+{"name":"Arizona","postal_code":"AZ","STATEFP":"04"}
+{"name":"Arkansas","postal_code":"AR","STATEFP":"05"}
+{"name":"California","postal_code":"CA","STATEFP":"06"}
+{"name":"Colorado","postal_code":"CO","STATEFP":"08"}
+{"name":"Connecticut","postal_code":"CT","STATEFP":"09"}
+{"name":"Delaware","postal_code":"DE","STATEFP":"10"}
+{"name":"Florida","postal_code":"FL","STATEFP":"12"}
+{"name":"Georgia","postal_code":"GA","STATEFP":"13"}
+{"name":"Hawaii","postal_code":"HI","STATEFP":"15"}
+{"name":"Idaho","postal_code":"ID","STATEFP":"16"}
+{"name":"Illinois","postal_code":"IL","STATEFP":"17"}
+{"name":"Indiana","postal_code":"IN","STATEFP":"18"}
+{"name":"Iowa","postal_code":"IA","STATEFP":"19"}
+{"name":"Kansas","postal_code":"KS","STATEFP":"20"}
+{"name":"Kentucky","postal_code":"KY","STATEFP":"21"}
+{"name":"Louisiana","postal_code":"LA","STATEFP":"22"}
+{"name":"Maine","postal_code":"ME","STATEFP":"23"}
+{"name":"Maryland","postal_code":"MD","STATEFP":"24"}
+{"name":"Massachusetts","postal_code":"MA","STATEFP":"25"}
+{"name":"Michigan","postal_code":"MI","STATEFP":"26"}
+{"name":"Minnesota","postal_code":"MN","STATEFP":"27"}
+{"name":"Mississippi","postal_code":"MS","STATEFP":"28"}
+{"name":"Missouri","postal_code":"MO","STATEFP":"29"}
+{"name":"Montana","postal_code":"MT","STATEFP":"30"}
+{"name":"Nebraska","postal_code":"NE","STATEFP":"31"}
+{"name":"Nevada","postal_code":"NV","STATEFP":"32"}
+{"name":"New Hampshire","postal_code":"NH","STATEFP":"33"}
+{"name":"New Jersey","postal_code":"NJ","STATEFP":"34"}
+{"name":"New Mexico","postal_code":"NM","STATEFP":"35"}
+{"name":"New York","postal_code":"NY","STATEFP":"36"}
+{"name":"North Carolina","postal_code":"NC","STATEFP":"37"}
+{"name":"North Dakota","postal_code":"ND","STATEFP":"38"}
+{"name":"Ohio","postal_code":"OH","STATEFP":"39"}
+{"name":"Oklahoma","postal_code":"OK","STATEFP":"40"}
+{"name":"Oregon","postal_code":"OR","STATEFP":"41"}
+{"name":"Pennsylvania","postal_code":"PA","STATEFP":"42"}
+{"name":"Rhode Island","postal_code":"RI","STATEFP":"44"}
+{"name":"South Carolina","postal_code":"SC","STATEFP":"45"}
+{"name":"South Dakota","postal_code":"SD","STATEFP":"46"}
+{"name":"Tennessee","postal_code":"TN","STATEFP":"47"}
+{"name":"Texas","postal_code":"TX","STATEFP":"48"}
+{"name":"Utah","postal_code":"UT","STATEFP":"49"}
+{"name":"Vermont","postal_code":"VT","STATEFP":"50"}
+{"name":"Virginia","postal_code":"VA","STATEFP":"51"}
+{"name":"Washington","postal_code":"WA","STATEFP":"53"}
+{"name":"West Virginia","postal_code":"WV","STATEFP":"54"}
+{"name":"Wisconsin","postal_code":"WI","STATEFP":"55"}
+{"name":"Wyoming","postal_code":"WY","STATEFP":"56"}
+{"name":"American Samoa","postal_code":"AS","STATEFP":"60"}
+{"name":"Guam","postal_code":"GU","STATEFP":"66"}
+{"name":"Northern Mariana Islands","postal_code":"MP","STATEFP":"69"}
+{"name":"Puerto Rico","postal_code":"PR","STATEFP":"72"}
+{"name":"Virgin Islands","postal_code":"VI","STATEFP":"78"}
