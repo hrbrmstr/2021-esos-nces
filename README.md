@@ -26,3 +26,5 @@ The `GEOID` in this NCES shapefile and `nces-edge-centroids.geojson` (below) == 
 ## Important
 
 The `Elementary School Operating Status w1.csv` schema is altered from the defaults in `esos-nces-district-status-facets.R` that `readr::read_csv()` would have used. Notably, the `State FIPS code` and `NCES district ID` are forced to be character columns. See `esos-nces-district-status-facets.R` for the {readr} spec.
+
+MIT license also only applies to the artifacts I've created. See the source sites for ESOS and NCES license requirements.
